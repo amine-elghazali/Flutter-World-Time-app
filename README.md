@@ -17,3 +17,4 @@ samples, guidance on mobile development, and a full API reference.
 
 
 ![alt text](https://github.com/amine-elghazali/Flutter-World-Time-app/blob/main/demo_picrtures/Demo1.PNG)
+![alt text](https://github.com/amine-elghazali/Flutter-World-Time-app/blob/main/demo_picrtures/Demo2.PNG)
